@@ -1,0 +1,46 @@
+.container-login {
+    padding: 0%;
+    /* margin: 0%; */
+    background-image: url('../images/login2.webp');
+    /* background-color: aqua; */
+
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    /* width: 200%; */
+    height: 100vh;
+}
+.h2-loginPage{
+    font-style: normal;
+    font-size: 36px;
+    /* font-display: initial; */
+    color: blue;
+    /* background-color:lightblue; */
+    font-weight: 100;    
+    font-family: 'Times New Roman', Times, serif;
+}
+.img-back{
+
+    width: 450px;
+
+    margin-left:70px;
+
+    height: 500px;
+
+}
+
+
+
+@media screen and (max-width: 480px) {
+
+    .img-back{
+
+        display: none;
+
+    }
+
+  }
+
+  .para{
+    color: blue;
+  }

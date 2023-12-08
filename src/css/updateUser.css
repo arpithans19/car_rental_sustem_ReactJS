@@ -1,0 +1,15 @@
+.container-updateUser{
+    background-color: pink;
+    /* width: 100%; */
+    height: 150vh;
+}
+.h2-updateUser{
+    font-style: normal;
+    font-size: 48px;
+    /* font-display: initial; */
+    color: darkblue;
+    /* background-color:lightblue; */
+    font-weight: 100;    
+    font-family: 'Times New Roman', Times, serif;
+
+}

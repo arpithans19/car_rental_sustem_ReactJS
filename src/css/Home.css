@@ -1,0 +1,27 @@
+.container-home{
+    padding: 0%;
+   
+    background-image: url('../images/car1.webp');
+    background-size: cover;
+    background-repeat: no-repeat;    
+    height: 100vh;
+    /* width: 80%; */
+}
+.h5-info{
+    color: maroon;
+    
+}
+.home3{
+    color: blue;
+    font-size: 12px;
+}
+.h1{
+    font-style: italic;
+    font-size: 200;
+    font-display: initial;
+    color: blue;
+    background-color: hsl(hue, saturation, lightness);
+    font-weight: 100;    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+

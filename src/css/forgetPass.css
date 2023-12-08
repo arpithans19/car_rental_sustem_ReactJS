@@ -1,0 +1,23 @@
+.container-forget{
+    padding: 0%;
+    /* margin: 0%; */
+    background-image: url('../images/try.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    width: 100%;
+    height: 100vh;
+}
+.h2-forget{
+    font-style: normal;
+    font-size: 39px;
+    /* font-display: initial; */
+    color: blue;
+    /* background-color:lightblue; */
+    font-weight: 100;    
+    font-family: 'Times New Roman', Times, serif;
+}
+.form-group1{
+    font-size: 16px;
+
+}
